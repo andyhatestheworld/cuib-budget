@@ -1,0 +1,32 @@
+{
+  "name": "cuib",
+  "version": "1.0.0",
+  "description": "A monthly budget that runs entirely in your browser. Vanilla JS, zero runtime dependencies. Fair expense splitting between people, the 50-30-20 rule, a shareable PDF report, light/dark themes and RO/EN.",
+  "type": "module",
+  "license": "MIT",
+  "author": "andyhatestheworld",
+  "homepage": "https://cuibbudget.andyeas.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andyhatestheworld/cuib-budget.git"
+  },
+  "keywords": [
+    "budget",
+    "personal-finance",
+    "50-30-20",
+    "vanilla-js",
+    "no-framework",
+    "zero-dependencies",
+    "localstorage",
+    "i18n",
+    "portfolio"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
